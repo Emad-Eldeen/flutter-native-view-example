@@ -1,6 +1,6 @@
 # flutter_native_view_example
 
-An example for Flutter native view.
+A running example for Flutter native view.
 
 ## Getting Started
 
